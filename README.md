@@ -1,2 +1,2 @@
 # moviesSearcher
-A simple iOS app to search movies
+A simple iOS app to search movies :D
